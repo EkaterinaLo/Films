@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string-array name="films">
+        <item>Иллюзия обмана</item>
+        <item>Король лев</item>
+        <item>Спортлото-82</item>
+        <item>Назад в будущее</item>
+        <item>Унесённые призраками</item>
+        <item>Зверополис</item>
+        <item>Девчата</item>
+        <item>Как украсть миллион</item>
+        <item>Гарри Поттер и узник Азкабана</item>
+        <item>Пираты карибского моря</item>
+    </string-array>
+</resources>
